@@ -28,6 +28,10 @@ export const metadata: Metadata =  {
     "Frontend Developer",
     "JavaScript Developer",
     "Tailwind CSS",
+    "Mohd Muqeem Alam",
+    "Muqeem",
+    "mohdmuqeemalam",
+    
   ],
 
   authors: [{ name: "Mohd Muqeem Alam" }],
