@@ -113,7 +113,7 @@ export default function ResumeTemplate() {
             </h2>
 
             <div className="mt-5 space-y-3 text-sm text-gray-300">
-              <a className="py-2 mb-1" href="mailto:yourmail@gmail.com?subject=Portfolio%20Contact&body=Hi%20Apsar%2C%20I%20visited%20your%20portfolio" >📧 mohmuqeemaalam@gmail.com</a>
+              <a className="py-2 mb-1" href="mailto: mohmuqeemalam@gmail.com?subject=Portfolio%20Contact&body=Hi%20Mohd%20Muqeem%20Alam%2C%20I%20visited%20your%20portfolio" >📧 mohmuqeemaalam@gmail.com</a>
               <p className="py-1">📱 +91 7891892408</p>
                <a href="https://wa.me/917891892408?text=Hi%20I%20want%20to%20connect"
   target="_blank" className="flex items-center gap-x-1"  ><span><RiWhatsappFill className="text-green-900 " size={15} /></span>  Chat on WhatsApp </a>
