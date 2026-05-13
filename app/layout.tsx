@@ -38,7 +38,7 @@ export const metadata: Metadata =  {
     title: "Mohd Muqeem Alam | Full Stack Developer",
     description:
       "Portfolio of Mohd Muqeem Alam - Full Stack Developer specializing in React.js, Next.js, Node.js, Express.js, and MongoDB.",
-    url: "https://yourwebsite.com",
+    url: "https://mohdmuqeemalam.vercel.app/",
     siteName: "Mohd Muqeem Alam Portfolio",
     locale: "en_US",
     type: "website",
