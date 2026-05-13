@@ -241,7 +241,7 @@ export default function ResumeTemplate() {
             <div className="mt-6 bg-gray-50 p-6 rounded-2xl shadow-md hover:shadow-2xl transition duration-500">
 
               <h3 className="text-2xl font-semibold">
-                Frontend Developer Intern
+                Full Stack Developer Intern
               </h3>
 
               <p className="text-gray-500 mt-1">
