@@ -23,6 +23,17 @@ export default function ResumeTemplate() {
   return (
 
     <div className="min-h-screen bg-gray-200 py-10 px-4 flex justify-center items-center">
+    <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: "Muqeem",
+      url: "https://mohdmuqeemalam.vercel.app",
+    }),
+  }}
+/>
       <div className="fixed top-5 right-5 z-50">
         <button
           onClick={handlePrint}
