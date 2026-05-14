@@ -19,6 +19,12 @@ export const metadata: Metadata =  {
      applicationName: "Muqeem",
     metadataBase: new URL("https://mohdmuqeemalam.vercel.app/"),
   keywords: [
+    
+    "Full Stack Engineer in the Jaipur",
+    "Engineer",
+    "Alam",
+    "Mohd Muqeem",
+     "Resume Muqeem",
     "Full Stack Developer",
     "MERN Stack Developer",
     "React Developer",
