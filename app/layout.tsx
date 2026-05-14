@@ -49,6 +49,27 @@ export const metadata: Metadata =  {
   },
 };
 
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mohd Muqeem Alam",
+  description: "Full Stack Developer",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mohd Muqeem Alam",
+  description: "Full Stack Developer",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -59,7 +80,79 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body >{children}</body>
+      <body>{children}</body>
+    </html>
+  );
+}import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mohd Muqeem Alam",
+  description: "Full Stack Developer",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+    >
+      <body>{children}</body>
+    </html>
+  );
+}import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mohd Muqeem Alam",
+  description: "Full Stack Developer",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+    >
+      <body>{children}</body>
+    </html>
+  );
+}import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Mohd Muqeem Alam",
+  description: "Full Stack Developer",
+
+  icons: {
+    icon: "/favicon.ico",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+    >
+      <body>{children}</body>
     </html>
   );
 }
