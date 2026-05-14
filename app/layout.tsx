@@ -15,9 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata =  {
   title: "Mohd Muqeem Alam | Full Stack Developer",
 
-  description:
-    "Passionate Full Stack Developer skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Building responsive and modern web applications.",
-
+  description: "Passionate Full Stack Developer skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Building responsive and modern web applications.",
+     applicationName: "Muqeem",
   keywords: [
     "Full Stack Developer",
     "MERN Stack Developer",
