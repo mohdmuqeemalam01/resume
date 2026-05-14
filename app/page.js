@@ -22,7 +22,7 @@ export default function ResumeTemplate() {
   const name = 'Mohd Muqeem Muqeem'
   return (
 
-    <div className="min-h-screen bg-gray-200 py-10 px-4 flex justify-center items-center">
+    <div className="min-h-screen bg-gray-200 py-10 px-4 flex relative justify-center items-center">
     <script
   type="application/ld+json"
   dangerouslySetInnerHTML={{
@@ -34,10 +34,10 @@ export default function ResumeTemplate() {
     }),
   }}
 />
-      <div className="fixed top-5 right-5 z-50">
+      <div className="fixed top-0 absolute right-0 z-50">
         <button
           onClick={handlePrint}
-          className="bg-black  text-white px-6 py-3 rounded-xl shadow-lg hover:scale-105 transition duration-300"
+          className="bg-black  text-white px-5 text-sm py-2 rounded-xl shadow-lg hover:scale-105 transition duration-300"
         >
           Download Resume
         </button>
