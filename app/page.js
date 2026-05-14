@@ -337,7 +337,7 @@ export default function ResumeTemplate() {
               </h3>
 
               <p className="text-gray-500 mt-2">
-                Arya College of Engineering | Computer Science of Engineering | 2022 - 2026
+             Rajasthan Technical University | Computer Science of Engineering | 2022 - 2026
               </p>
 
             </div>
