@@ -17,6 +17,7 @@ export const metadata: Metadata =  {
 
   description: "Passionate Full Stack Developer skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Building responsive and modern web applications.",
      applicationName: "Muqeem",
+    metadataBase: new URL("https://mohdmuqeemalam.vercel.app/"),
   keywords: [
     "Full Stack Developer",
     "MERN Stack Developer",
