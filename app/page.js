@@ -28,9 +28,17 @@ export default function ResumeTemplate() {
   dangerouslySetInnerHTML={{
     __html: JSON.stringify({
       "@context": "https://schema.org",
-      "@type": "WebSite",
-      name: "Muqeem",
+      "@type": "Person",
+      name: "Mohd Muqeem Alam",
+      alternateName: "Muqeem",
       url: "https://mohdmuqeemalam.vercel.app",
+      image: "https://mohdmuqeemalam.vercel.app/profile.jpg",
+      jobTitle: "Full Stack Developer",
+      sameAs: [
+        "https://instagram.com/mohm.muqeem.alam",
+        "https://github.com/mohdmuqeemalam01",
+        "https://linkedin.com/in/mohammad-muqeem-alam"
+      ]
     }),
   }}
 />
