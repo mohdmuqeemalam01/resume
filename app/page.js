@@ -37,7 +37,7 @@ export default function ResumeTemplate() {
       <div className="fixed top-0 absolute right-0 z-50">
         <button
           onClick={handlePrint}
-          className="bg-black  text-white px-5 text-sm py-2 rounded-xl shadow-lg hover:scale-105 transition duration-300"
+          className="bg-white  text-black px-5 text-sm py-2 rounded-xl shadow-lg hover:scale-105 transition duration-300"
         >
         Download
         </button>
