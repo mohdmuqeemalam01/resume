@@ -19,7 +19,7 @@ export default function ResumeTemplate() {
     documentTitle: "Mohd-Muqeem-Alam-Resume",
   });
 
-  const name = 'Mohd Muqeem Muqeem'
+  const name = 'Mohd Muqeem Alam'
   return (
 
     <div className="min-h-screen bg-gray-200 py-10 px-4 flex relative justify-center items-center">
