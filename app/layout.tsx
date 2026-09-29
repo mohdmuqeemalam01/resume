@@ -14,10 +14,14 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata =  {
   title: "Mohd Muqeem Alam | Full Stack Developer",
+  
 
   description: "Passionate Full Stack Developer skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Building responsive and modern web applications.",
      applicationName: "Muqeem",
-    metadataBase: new URL("https://mohdmuqeemalam.vercel.app/"),
+  verification: {
+    google: "_O3KnjKhmBBRBj6_dvSUYFcy5a7ZAn6mASDZGADrucU",
+  },
+  metadataBase: new URL("https://mohdmuqeemalam.vercel.app/"),
   keywords: [
     
     "Full Stack Engineer in the Jaipur",
